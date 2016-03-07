@@ -1,0 +1,13 @@
+24fc0b09b9cae26e1e4cb4cfa5c0163b *DESCRIPTION
+d4aa5fbaf65bc51281ea3be1155e5a65 *LICENSE
+c5328329d7885865ff2083724e064f83 *NAMESPACE
+28661bfe451a3e6919300e90d560ae96 *R/soql.R
+66514bc8e8e91b1874100c3fe5d27fd4 *build/partial.rdb
+c21ef15f0eadb4dd1ef7edb4c303b7e1 *man/soql-internal.Rd
+0bc0296e52545e9095420e442f278b99 *man/soql-package.Rd
+83b2fa24c5aa5cbf661ff5cf6084b9f9 *man/soql.Rd
+55bacf2a8fa512e5da7255b9c958eb24 *man/soql_add_endpoint.Rd
+13892b718569953306bc1226e2ddf92e *man/soql_limit.Rd
+4aebc6edb38c69cce3ca1a142e0aaf58 *man/soql_offset.Rd
+c2970d55973965a3d1d74572d91303db *man/soql_queries.Rd
+b222671d01bf845fa3b0cf8740e5f65d *man/soql_simple_filter.Rd
