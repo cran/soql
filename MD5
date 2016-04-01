@@ -1,8 +1,8 @@
-24fc0b09b9cae26e1e4cb4cfa5c0163b *DESCRIPTION
+675e4bc181d6487404ae3ac8ed9436b2 *DESCRIPTION
 d4aa5fbaf65bc51281ea3be1155e5a65 *LICENSE
 c5328329d7885865ff2083724e064f83 *NAMESPACE
-28661bfe451a3e6919300e90d560ae96 *R/soql.R
-66514bc8e8e91b1874100c3fe5d27fd4 *build/partial.rdb
+46292db1e3c54ccdcec76747d0fb03b2 *R/soql.R
+0af08c891acb7008ca8cb524772c5c5f *build/partial.rdb
 c21ef15f0eadb4dd1ef7edb4c303b7e1 *man/soql-internal.Rd
 0bc0296e52545e9095420e442f278b99 *man/soql-package.Rd
 83b2fa24c5aa5cbf661ff5cf6084b9f9 *man/soql.Rd
